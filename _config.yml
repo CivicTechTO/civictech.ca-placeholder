@@ -24,9 +24,6 @@ github_username:  civictechto
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-cayman
-repository: false
-github:
-  is_project_page: false
 gems:
   - jekyll-feed
 exclude:

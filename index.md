@@ -3,6 +3,8 @@
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 ---
+<div class="alert alert-info"><strong>Note:</strong> Our full website is down for temporary maintainance.</div>
+
 Civic Tech Toronto is a diverse community of Torontonians interested in better understanding and finding solutions to civic challenges through technology, design or other means.
 
 The Civic Tech Toronto community comes together at our weekly Hacknights every Tuesday from 6:30pm to 9pm. At Hacknights, we come together to listen to awesome speakers, learn and share civic tech stories, and work together on projects that aim to make Toronto better.

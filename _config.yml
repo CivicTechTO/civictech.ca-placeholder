@@ -16,9 +16,7 @@
 title: Civic Tech Toronto
 email: hi@civictech.ca
 description: > # this means to ignore newlines until "baseurl:"
-  Civic Tech Toronto is a diverse community of Torontonians interested in
-  better understanding and finding solutions to civic challenges through
-  technology, design or other means.
+  Hacknights for everyone.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: civictechto
@@ -27,6 +25,7 @@ github_username:  civictechto
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-cayman
+repository: false
 github:
   is_project_page: false
 gems:

@@ -17,7 +17,6 @@ title: Civic Tech Toronto
 email: hi@civictech.ca
 description: > # this means to ignore newlines until "baseurl:"
   Hacknights for everyone.
-baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: civictechto
 github_username:  civictechto
